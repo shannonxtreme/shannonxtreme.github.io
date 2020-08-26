@@ -1,3 +1,18 @@
+{%- comment -%} Update Styles {%- endcomment -%}
+{%- if project.style == 'fill' -%}
+  {%- assign card_style = project.color | prepend: 'bg-' -%}
+  {%- if project.color != 'light' -%}
+    {%- assign text_style  = 'text-white' -%}
+    {%- assign badge_style = 'badge-light text-' -%}
+    {%- assign badge_style = badge_style | append: project.color -%}
+  {%- endif -%}
+{%- else -%}
+  {%- assign card_style = project.color | prepend: 'border border-' -%}
+  {%- if project.color -%}
+    {%- assign badge_style =  project.color | prepend: 'badge-' -%}
+  {%- endif -%}
+{%- endif -%}
+
 <div class="wow animated fadeIn" data-wow-delay=".15s">
   <a href="{{ project_url }}" class="project card text-dark">
     {%- if project_img -%}
