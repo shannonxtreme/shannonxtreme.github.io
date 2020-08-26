@@ -9,7 +9,7 @@ layout: page
     {%- if page.categories != empty -%}
         Categories: 
         {% for category in page.categories %}
-            <a class="text-decoration-none no-underline" href="{{ category | slugify | prepend:'/portfolio/categories#' | relative_url }}">
+            <a class="text-decoration-none no-underline" href="{{ category | slugify | prepend:'/projects/categories#' | relative_url }}">
                 <span class="tag badge badge-pill text-primary border border-primary">{{ category }}</span>
             </a>
         {% endfor %}
