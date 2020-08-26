@@ -1,7 +1,7 @@
 ---
 name: OPP Style Guide
 tools: [nothing, important]
-tags: [Style Guides]
+categories: [Style Guides]
 image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
