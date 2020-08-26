@@ -70,12 +70,12 @@ defaults:
       path: ""
       type: "projects"
     values:
-      layout: "page"
+      layout: "project"
   - scope:
       path: ""
       type: "posts"
     values:
-      comments: false                                   # Set to true to enable disqus comments
+      comments: false                                   # Set to true to enable disqus comments  
 
 ### Exclude from processing ###
 exclude:
