@@ -1,5 +1,5 @@
 ---
-name: Basecampe 3 User Guide
+name: Basecamp 3 User Guide
 categories: [Documentation]
 style: fill
 color: secondary
