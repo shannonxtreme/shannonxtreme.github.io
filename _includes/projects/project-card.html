@@ -30,12 +30,12 @@
           {%- endif -%}
         {{ project_name }}
       </h5>
-      <p id="{{ project_id }}-desc" class="card-text">{{ project_desc }}</p>
       <p id="{{ project_id }}-tags" class="card-text">
         {%- for category in project_categories -%}
         <span class="badge {{badge_style}}1">{{ category }}</span>
         {%- endfor -%}
       </p>
+      <p id="{{ project_id }}-desc" class="card-text">{{ project_desc }}</p>
     </div>
   </a>
 </div>
