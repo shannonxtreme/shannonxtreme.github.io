@@ -3,7 +3,6 @@ name: OPP Style Guide
 categories: [Style Guides]
 style: fill
 color: primary
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
 description: Brand style guide for the OPP.
 ---
 # Style Guide - Ontario Provincial Police
