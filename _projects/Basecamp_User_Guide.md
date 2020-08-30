@@ -1,6 +1,6 @@
 ---
 name: Basecampe 3 User Guide
-categories: [Guides]
+categories: [Documentation]
 style: fill
 color: secondary
 description: User guide for Basecamp 3 project management platform.
