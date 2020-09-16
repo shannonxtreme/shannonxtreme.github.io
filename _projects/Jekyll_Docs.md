@@ -1,5 +1,5 @@
 ---
-name: Jekyll Documentation Contributions
+name: Jekyll Documentation
 categories: [Documentation, Open Source]
 style: fill
 color: warning

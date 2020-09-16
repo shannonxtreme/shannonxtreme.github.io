@@ -2,7 +2,7 @@
 name: Basecamp 3 User Guide
 categories: [Documentation]
 style: fill
-color: secondary
+color: success
 description: User guide for Basecamp 3 project management platform.
 ---
 
