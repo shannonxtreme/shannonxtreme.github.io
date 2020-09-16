@@ -1,11 +1,23 @@
-- name: HTML5/CSS3
+- name: HTML/CSS/JS
   percentage: 90
   color: danger
 
-- name: Go
-  percentage: 80
-  color:
+- name: Git
+  percentage: 90
+  color: success
+
+- name: SQL
+  percentage: 75
+  color: primary
+
+- name: Confluence/Jira
+  percentage: 70
+  color: info
+
+- name: Linux (Ubuntu/CentOS)
+  percentage: 65
+  color: dark
 
 - name: Python
-  percentage: 70
-  color: dark
+  percentage: 50
+  color: warning
