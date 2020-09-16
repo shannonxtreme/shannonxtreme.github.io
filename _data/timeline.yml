@@ -1,17 +1,9 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Technical Writer | KnowledgeBase Administrator, IFDS Canada
+  from: April 2018
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Write release notes, guides, and overviews for proprietary financial software. Maintain the internal KnowledgeBase, supporting over 500 contact centre employees.
+
+- title: SEO Specialist | Technical Writer, Vestra Inet, Canada
+  from: April 2017
+  to: March 2018
+  description: Managed project documentation including plans, schedules, and charts. Wrote software development and web design proposals in response to RFPs and RFQs. Audited client website content and code for grammatical and structural issues. Presented findings in detailed reports. Recommended site coding improvements (JavaScript and CSS minification, HTML image optimizations) resulting in a 300% increase in load speed of pages.
