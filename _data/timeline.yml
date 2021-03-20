@@ -1,9 +1,17 @@
-- title: Technical Writer | KnowledgeBase Administrator, IFDS Canada
-  from: April 2018
+- title: Technical Writer, Google Cloud
+  org: Google
+  from: December 2020
   to: present
+  description: On the Google Kubernetes Engine (GKE) team, write docs for product and feature launches, bug fixes, and everything in between. I specialize in GKE/container security. 
+
+- title: Technical Writer | KnowledgeBase Administrator
+  org: IFDS Canada
+  from: April 2018
+  to: December 2020
   description: Write release notes, guides, and overviews for proprietary financial software. Maintain the internal KnowledgeBase, supporting over 500 contact centre employees.
 
-- title: SEO Specialist | Technical Writer, Vestra Inet, Canada
+- title: SEO Specialist | Technical Writer
+  org: Vestra Inet
   from: April 2017
   to: March 2018
   description: Managed project documentation including plans, schedules, and charts. Wrote software development and web design proposals in response to RFPs and RFQs. Audited client website content and code for grammatical and structural issues. Presented findings in detailed reports. Recommended site coding improvements (JavaScript and CSS minification, HTML image optimizations) resulting in a 300% increase in load speed of pages.
