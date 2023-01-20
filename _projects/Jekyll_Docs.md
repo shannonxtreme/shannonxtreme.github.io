@@ -8,7 +8,7 @@ description: Contributions to jekyllrb.com.
 
 # Jekyll Documentation Contributions 
 
-I regularly contribute to the [Jekyll static site generator documentation](https://jekyllrb.com). I keep watch for new documentation issues and work with the repository owners
+I contributed to the [Jekyll static site generator documentation](https://jekyllrb.com). Watched for new documentation issues and worked with the repository owners
 to find solutions and implement them in the docs.
 
 <p class="text-center">
